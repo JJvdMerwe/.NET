@@ -22,7 +22,8 @@ We will be looking at creating a solution for Pezza's customers only. We will st
     - [ ] Create a new Class Library Pezza.Common <br/> ![](Assets/2020-09-11-10-01-34.png) <br/> ![](Assets/2020-09-11-10-02-26.png)
     - [ ] Create a folder *Entities* where all database models will go into <br/> ![](./Assets/2021-08-15-17-18-46.png)
     - [ ] Create a Entity Stock.cs in a folder Entities <br/>![](Assets/2020-09-11-10-03-20.png)
-    - [ ] 
+
+Add the following to Stock.cs 
 ``` 
 namespace Pezza.Common.Entities
 {
